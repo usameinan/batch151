@@ -1,0 +1,34 @@
+
+                STRİNG METHODLARI
+
+1) toUpperCase() : i. Tum harfleri buyuk harfe cevirir
+                   ii. bize string return eder
+
+2) toLowerCase() : i. Tum harfleri kucuk harfe cevirir
+                   ii. bize string return eder
+
+3)charAt()      : i. Ilk harfi alır
+                   ii.index ile calisit
+
+4)length()      : i. bir datadaki karakter sayisini bildiri
+                   ii. int bir deger return eder
+
+5)Substring()   : i. baslangic ve bitis indexi verilirse baslangic indexi dahil bitis indexi haric yazdirir
+                      metnin ortasindan data almamizi saglar
+                   ii.(baslangic indexi) stringin verilen indexten sonuna kadar alınmasini saglar
+                   iii. bu method string return eder
+
+6)contains()    : i. bir data var mı yok mu ona bakar
+                   ii. boolean data return eder
+
+7)substring()    : i. stringin ortasında
+
+8)startsWith()
+
+9)endsWtih()
+
+10)replace()
+
+11)replaceAll()
+
+12)
