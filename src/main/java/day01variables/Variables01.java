@@ -36,7 +36,7 @@ public class Variables01 {
         System.out.println(cellWeight - amoebaweight);
 
 
-
+//git deneme
 
     }
 }
